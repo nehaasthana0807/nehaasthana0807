@@ -5,6 +5,42 @@
 - 💞️ I’m looking to collaborate on python automation projects.
 - 📫 How to reach me https://www.linkedin.com/in/neha-asthana-09570315
 
+A poem to honour what I do!
+
+Testing software is an art,
+A craft that takes a patient heart.
+Each line of code must be inspected,
+For every bug, we must be detected.
+
+First, we must plan our every test,
+To ensure our code is at its best.
+Test cases must be well-defined,
+To leave no room for the undefined.
+
+Functional testing is a must,
+To check if our code is just.
+Does it do what it's meant to do?
+Or does it need more work, anew?
+
+Performance testing is also key,
+To ensure our code runs seamlessly.
+It must handle the load we expect,
+And not break down with a defect.
+
+Security testing must be done,
+To protect our code from any con.
+It must be safe from outside harm,
+And keep our users free from alarm.
+
+Regression testing is a must,
+To ensure our changes don't cause a bust.
+We must test again and again,
+To catch any bugs, now or then.
+
+And so we test with all our might,
+To ensure our code is error-free and bright.
+Each test we run, we learn and grow,
+And make our software better, we know.
 <!---
 nehaasthana0807/nehaasthana0807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
